@@ -1,8 +1,0 @@
-.ipynb_checkpoints/
-__pycache__/
-.DS_Store
-*.pyc
-.virtual_documents
-anaconda_projects
-.env
-.gitignore
