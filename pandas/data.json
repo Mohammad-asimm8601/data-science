@@ -1,10 +1,12 @@
 [
 {
 "name":"Asim",
-"lang":"Python"
+"lang":"Python",
+"address":{"post":"kakrahawa bazar","city": "Siddharth nagar"}
 },
 {
 "name":"Mukesh",
-"lang":"English"
+"lang":"English",
+"address":{"post":"kakrahawa bazar","city": "Siddharth nagar"}
 }
 ]
