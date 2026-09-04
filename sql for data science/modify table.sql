@@ -1,0 +1,13 @@
+-- RENAME TABLE student TO cwh_student;
+-- DESCRIBE cwh_student;
+-- DROP TABLE cwh_student;
+-- SHOW tables;
+-- ALTER TABLE student RENAME COLUMN admission_date TO admission_date_day;
+-- DESCRIBE student;
+-- ALTER TABLE student DROP COLUMN admission_date_day;
+-- ALTER TABLE student ADD COLUMN gender VARCHAR(10);
+-- ALTER TABLE student MODIFY COLUMN name VARCHAR(150) NOT NULL;
+-- ALTER TABLE student MODIFY COLUMN name VARCHAR(50) AFTER gender;
+-- SHOW TABLES;
+DESCRIBE student;
+SELECT * FROM student;
